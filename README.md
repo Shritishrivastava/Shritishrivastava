@@ -74,4 +74,4 @@
 </p>
 
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shritishrivastava&" alt="shritishrivastava" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shritishrivastava&theme=transparent&hide_border=true" alt="shritishrivastava" /></p>
