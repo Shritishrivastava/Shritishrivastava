@@ -18,7 +18,7 @@
   -   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
   -   😄 Pronouns: [She/Her]
   -   📫 How to reach me *shritishrivastava7@gmail.com*
-  -   🙈 When I'm not building websites, you can find me ranting about life's little frustrations and contemplating the meaning of it all. 
+  -   🙈 You can find me ranting about life's little frustrations and contemplating the meaning of it all. 
   -   ⚡ Fun fact:sometimes, I pretend to get a call to avoid socializing. 
 
   <hr>
