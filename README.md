@@ -19,7 +19,7 @@
   -   😄 Pronouns: [She/Her]
   -   📫 How to reach me *shritishrivastava7@gmail.com*
   -   🙈 You can find me ranting about life's little frustrations and contemplating the meaning of it all. 
-  -   ⚡ Fun fact:sometimes, I pretend to get a call to avoid socializing. 
+  -   ⚡ Fun fact: Sometimes, I pretend to get a call to avoid socializing. 
 
   <hr>
 
@@ -74,3 +74,4 @@
 </p>
 
 <hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shritishrivastava&" alt="shritishrivastava" /></p>
