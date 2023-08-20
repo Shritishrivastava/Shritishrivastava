@@ -7,7 +7,7 @@
  <p align="center">
     <em>
       Hi, I'm shriti, a 2nd year undergraduate. <br>
-     I'm currently working on impoving my knowledge of <b></b> data structures and algorithm</b> with a side of caffeine to keep me going.
+     I'm currently working on improving my knowledge of <b></b> data structures and algorithm</b> with a side of caffeine to keep me going.
   </p>
     
   > <img src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif" width=40px /> **Talking about Personal Stuffs:**
