@@ -6,7 +6,7 @@
   </h1>
  <p align="center">
     <em>
-      Hi, I'm shriti, a 2nd year undergraduate. <br>
+      Hi, I'm shriti, a 4th year undergraduate. <br>
      I'm currently working on improving my knowledge of <b></b> data structures and algorithm</b> with a side of caffeine to keep me going.
   </p>
     
@@ -15,7 +15,7 @@
  
   
   -   🔭  When I'm not writing code, you can find me binging on sci-fi movies and wondering if our world is a simulation.
-  -   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
+  -   🌱 I’m currently learning stuffs to be a Full-Stack Web Developer!
   -   😄 Pronouns: [She/Her]
   -   📫 How to reach me *shritishrivastava7@gmail.com*
   -   🙈 You can find me ranting about life's little frustrations and contemplating the meaning of it all. 
